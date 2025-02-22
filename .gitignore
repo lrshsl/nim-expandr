@@ -1,0 +1,4 @@
+/nim_expandr
+/tests/**
+!/tests/**/*.nims
+!/tests/**/*.nim
